@@ -1,5 +1,6 @@
-
+//C++ code 
 //
+
 #include <Servo.h>
 
 int push = 0;
